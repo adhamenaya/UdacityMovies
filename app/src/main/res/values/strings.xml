@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MoviesApp</string>
+    <string name="action_sort_by_popularity">Sort by Popularity</string>
+    <string name="action_sort_by_rating">Sort by Rating</string>
+    <string name="tab_info">Overview</string>
+    <string name="tab_photos">Photos</string>
+    <string name="tab_reviews">Reviews</string>
+
+    <string name="toolbar_popularity">Most popular movies</string>
+    <string name="toolbar_rating">Top rated movies</string>
+    <string name="toolbar_favourite">My Favourite Movies</string>
+
+    <string name="action_share">Share video</string>
+</resources>
