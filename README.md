@@ -1,5 +1,8 @@
 # PopularMovieMVP
 
+Here you can watch a screencast for the application:
+[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://www.youtube.com/watch?v=c6Ln5iDt2eo)
+
 ## User Interface - Layout
 
 * Movies are displayed in the main layout via a grid of their corresponding movie poster thumbnails.
