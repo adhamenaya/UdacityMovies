@@ -1,7 +1,7 @@
 # PopularMovieMVP
 Built an app, optimized for tablets, to help users discover popular and highly rated movies on the web. It displays a scrolling grid of movie trailers, launches a details screen whenever a particular movie is selected, allows users to save favorites, play trailers, and read user reviews. This app utilizes core Android user interface components and fetches movie information using themoviedb.org web API. MVP design pattern is implemented for the project architecture, and content provider is implemented for data persistence. 
 
-<b>Note:<b/> to use themoviedb API you need to update the class WebServiceProxy.java with you API key.
+<b>Note:</b> to use themoviedb API you need to update the class WebServiceProxy.java with you API key.
 
 Here you can watch a screencast for the application, click on the image below:
 
