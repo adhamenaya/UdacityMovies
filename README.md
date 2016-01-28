@@ -1,7 +1,7 @@
 # PopularMovieMVP
 
 Here you can watch a screencast for the application:<br><br>
-[![Alt text for your video](https://cloud.githubusercontent.com/assets/1500868/12656594/cbcd59bc-c607-11e5-8a1d-4d5c72cc3990.png)](https://www.youtube.com/watch?v=c6Ln5iDt2eo)
+[![Alt text for your video](https://cloud.githubusercontent.com/assets/1500868/12656770/91bf5828-c608-11e5-9f28-26c1e9664fe5.png)](https://www.youtube.com/watch?v=c6Ln5iDt2eo)
 
 ## User Interface - Layout
 
