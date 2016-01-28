@@ -1,6 +1,8 @@
 # PopularMovieMVP
+Built an app, optimized for tablets, to help users discover popular and highly rated movies on the web. It displays a scrolling grid of movie trailers, launches a details screen whenever a particular movie is selected, allows users to save favorites, play trailers, and read user reviews. This app utilizes core Android user interface components and fetches movie information using themoviedb.org web API.
 
-Here you can watch a screencast for the application:<br><br>
+Here you can watch a screencast for the application, click on the image below:
+
 [![Alt text for your video](https://cloud.githubusercontent.com/assets/1500868/12656770/91bf5828-c608-11e5-9f28-26c1e9664fe5.png)](https://www.youtube.com/watch?v=c6Ln5iDt2eo)
 
 ## User Interface - Layout
